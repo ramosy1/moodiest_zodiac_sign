@@ -1,5 +1,5 @@
 # moodiest_zodiac_sign
-<p><img src= "./image/moodiest zodiac sign.png" alt="moodiest zodiac sign image" title="Moodiest Zodiac Sign" width="100%" height="100%"></p>
+<p><img src= "./image/moodiest zodiac sign.png" alt="moodiest zodiac sign image" title="Moodiest Zodiac Sign"></p>
 
 
 # Overview
