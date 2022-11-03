@@ -1,6 +1,6 @@
 # Moodiest Zodiac Sign
 
-<p><img src= "./gifs/Moodiest Zodiac Sign.gif" alt="moodiest zodiac sign image" title="Moodiest Zodiac Sign"></p>
+<p><img src= "./gifs/Moodiest Zodiac Sign.gif" alt="moodiest zodiac sign image" title="Moodiest Zodiac Sign" width="70%" height="70%"></p>
 
 <p><b>Link to project:</b><a href="https://ramosy1.github.io/moodiest_zodiac_sign/"> Moodiest Zodiac Sign</a></p>
 
